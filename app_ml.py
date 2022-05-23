@@ -2,11 +2,11 @@ import streamlit as st
 import joblib
 import numpy as np
 
-import sklearn
+# import sklearn
 def run_ml():
     st.subheader('자동차 구매 가능 금액 예측')
 
-    print(sklearn.__version__)
+    # print(sklearn.__version__)
     # 예측하기 위해서 필요한 파일들을 불러와야 한다.
     # 이 예에서는, 인공지능파일, X 스케일러파일, y 스케일러파일
     # 3개를 불러와야 한다.
