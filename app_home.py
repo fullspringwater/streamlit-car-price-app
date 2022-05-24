@@ -5,3 +5,5 @@ def run_home():
     st.text('왼쪽 사이드바에서 원하는 항목을 선택하세요.')
     
     st.text('코드 수정 예제')
+
+    st.text('테스트')
