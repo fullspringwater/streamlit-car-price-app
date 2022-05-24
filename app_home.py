@@ -6,4 +6,3 @@ def run_home():
     
     st.text('코드 수정 예제')
 
-    st.text('테스트')
